@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+Hobbies: Coding, Robotics, Coding, Reading a Book
+Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
+Pronouns: she/her
+I'm currently looking for a remote summer internship.
