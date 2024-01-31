@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Hannah Khamvanthong, and I am a computer science major.
+My name is Hannah Khamvanthong, and I am a computer science major. I'm currently looking for a remote summer internship.
 
-Hobbies: Coding, Robotics, Coding, Reading a Book
-
-Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
-
-Pronouns: she/her
-
-I'm currently looking for a remote summer internship.
+- Hobbies: Coding, Robotics, Coding, Reading a Book
+- Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
+- Pronouns: she/her
