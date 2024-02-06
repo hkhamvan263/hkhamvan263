@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student. I'm currently looking for a remote summer internship.
 
-- 🤖 Hobbies: Coding, Robotics, Coding, Reading a Book
+- 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
 - 👩🏻 Pronouns: she/her
