@@ -19,5 +19,5 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning data analytics, software engineering, networking, and social implications of computing
 - 🔭 I’m currently working on the following projects:
-    - a medicine dosage tracker as senior project with Symphony Pierce and Daniel Velazco
-    - a PII project with Jeremy Cross, James Fuller, Keniah Watts, and Josiah Small
+    - Medicine dosage tracker with Symphony Pierce and Daniel Velazco
+    - PII project with Jeremy Cross, James Fuller, Keniah Watts, and Josiah Small
