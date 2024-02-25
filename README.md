@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about anything
+- 📫 How to reach me: TBD
 -->
 
 My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student. I'm currently looking for a remote summer internship.
@@ -18,6 +18,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 👩🏻‍💻 Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
 - 😄 Pronouns: she/her
 - ♓ Zodiac Sign: Pisces
+- MBTI: ISFx/IxFP
 - 🌱 I’m currently learning data analytics, software engineering, networked computer systems, and social implications of computing
 - 🔭 I’m currently working on the following projects:
     - Medicine dosage tracker with Symphony Pierce and Daniel Velazco
