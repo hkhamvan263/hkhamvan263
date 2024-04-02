@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student. I'm currently looking for a remote summer or an on-campus Fall internship before I graduate from A&T.
+My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student. I'm currently looking for a summer or an on-campus Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science-related research positions.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
