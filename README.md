@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student. I'm currently looking for a summer or an on-campus Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science-related research positions.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
-- 👩🏻‍💻 Coding Languages: Python, Java, C++ (Intermediate), Javascript, HTML/CSS, SQL
+- 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL
 - 😄 Pronouns: she/her
 - ♓ Zodiac Sign: Pisces
 - 🙂 MBTI: ISFx/IxFP
