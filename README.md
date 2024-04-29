@@ -22,5 +22,4 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🌱 I’m currently learning data analytics, software engineering, networked computer systems, and social implications of computing
 - 🔭 I’m currently working on the following projects:
     - Medicine dosage tracker with Symphony Pierce and Daniel Velazco
-    - PII project with Jeremy Cross, James Fuller, Keniah Watts, and Josiah Small
     - COMP 300 Research project with Tori Johnson, EA Hood, Mackenzie Jones, Jaylan Hunter, and Pernell Johnson
