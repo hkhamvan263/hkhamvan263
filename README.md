@@ -19,6 +19,6 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 😄 Pronouns: she/her
 - ♓ Zodiac Sign: Pisces
 - 🙂 MBTI: ISFx/IxFP
-- 🌱 I’m currently learning data analytics, software engineering, networked computer systems, and social implications of computing
+- 🌱 I’m currently learning data analytics, networked computer systems, and mobile application development
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Mobile App with Symphony Pierce and Daniel Velazc
