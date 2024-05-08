@@ -17,6 +17,6 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning data analytics, networked computer systems, and mobile application development
+- 🌱 I’m currently learning mobile application development
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Mobile App with Symphony Pierce and Daniel Velazco
