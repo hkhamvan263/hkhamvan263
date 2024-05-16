@@ -19,4 +19,4 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning mobile application development and operating systems
 - 🔭 I’m currently working on the following projects:
-    - Dosage Tracker Mobile App with Symphony Pierce and Daniel Velazco
+    - Dosage Tracker Mobile Android App with Symphony Pierce and Daniel Velazco
