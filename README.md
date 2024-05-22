@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduating on December 14, 2024. I'm currently looking for a summer or an on-campus/remote/hybrid Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science-related research positions.
+My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduating on December 14, 2024. I'm currently looking for a summer or an on-campus/remote/hybrid Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science-related research positions. In addition, I am planning on attending UNC Chapel Hill for MADS program.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
