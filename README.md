@@ -18,6 +18,6 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableu
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning mobile application development, kotlin, and operating systems
+- 🌱 I’m currently learning mobile application development, Kotlin, and operating systems
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Mobile Android App with Symphony Pierce and Daniel Velazco
