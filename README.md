@@ -21,4 +21,4 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🌱 I’m currently learning mobile application development and operating systems
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Mobile Android App with Symphony Pierce and Daniel Velazco
-    - Unfinished UNCC 2024 Game Jam game with Nicholas Dewberry and Sloane Miller
+    - Make Me Laugh: An NCAT Game with Nicholas Dewberry and Sloane Miller
