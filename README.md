@@ -19,5 +19,5 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableu
 - 🌱 I’m currently learning mobile application development and operating systems
 - 🔭 I’m currently working on the following projects:
-    - Dosage Tracker Mobile Android App with Symphony Pierce and Daniel Velazco
+    - Dosage Tracker Android App with Symphony Pierce and Daniel Velazco
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
