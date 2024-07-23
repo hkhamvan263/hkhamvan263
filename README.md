@@ -21,3 +21,4 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Android App with Symphony Pierce and Daniel Velazco
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
+    - Headstarter AI Projects
