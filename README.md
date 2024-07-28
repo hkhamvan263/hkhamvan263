@@ -15,7 +15,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
-- 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableu
+- 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableau
 - 🌱 I’m currently learning mobile application development, operating systems, and Renpy
 - 🔭 I’m currently working on the following projects:
     - Dosage Tracker Android App with Symphony Pierce and Daniel Velazco
