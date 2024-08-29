@@ -18,7 +18,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableau
 - 🌱 I’m currently learning mobile application development and Renpy
 - 🔭 I’m currently working on the following projects:
-    - Dosage Tracker Android App with Symphony Pierce and Daniel Velazco
+    - ML Senior Project with Symphony Pierce and Daniel Velazco
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
-    - Headstarter AI Team and Final Projects with Md Patwary, Satya Indukuri, and Arathi Sivan
+    - Headstarter AI Final Project with Md Patwary, Satya Indukuri, and Arathi Sivan
 - 📫 How to reach me: TBD
