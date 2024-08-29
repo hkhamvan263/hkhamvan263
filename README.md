@@ -16,7 +16,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableau
-- 🌱 I’m currently learning mobile application development and Renpy
+- 🌱 I’m currently learning Theory of Computing, Internet Systems, Technical Communication, and Renpy
 - 🔭 I’m currently working on the following projects:
     - ML Senior Project with Symphony Pierce and Daniel Velazco
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
