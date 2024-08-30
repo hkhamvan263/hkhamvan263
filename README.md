@@ -18,7 +18,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableau
 - 🌱 I’m currently learning Theory of Computing, Internet Systems, Technical Communication, and Renpy
 - 🔭 I’m currently working on the following projects:
-    - ML Senior Project with Symphony Pierce and Daniel Velazco
+    - Protein Sequencing with Transformer Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
     - Headstarter AI Final Project with Md Patwary, Satya Indukuri, and Arathi Sivan
 - 📫 How to reach me: TBD
