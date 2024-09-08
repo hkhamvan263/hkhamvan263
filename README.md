@@ -23,4 +23,5 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
     - Headstarter AI Final Project with Md Patwary, Satya Indukuri, and Arathi Sivan
 - 📫 How to reach me: TBD
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263">
+<img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
+<img alt="Hannah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263&layout=compact&theme=dark#gh-dark-mode-only">
