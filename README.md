@@ -16,7 +16,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
-- 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn, Some experience with Tableau
+- 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn
 - 🌱 I’m currently learning the Theory of Computing, Internet Systems, Writing for Science and Technology, and Renpy
 - 🔭 I’m currently working on the following projects:
     - Protein Scaffolding using Transformer Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
