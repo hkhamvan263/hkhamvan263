@@ -19,7 +19,7 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn
 - 🌱 I’m currently learning the Theory of Computing, Internet Systems, Writing for Science and Technology, and Renpy
 - 🔭 I’m currently working on the following projects:
-    - Protein Scaffolding using Transformer Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
+    - Protein Scaffolding using KNN Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
     - Little Detective Game with Nicholas Dewberry and Sloane Miller
 
 <img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
