@@ -17,10 +17,9 @@ My name is Hannah Khamvanthong, and I am a first-generation, senior computer sci
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn
-- 🌱 I’m currently learning the Theory of Computing, Internet Systems, Writing for Science and Technology, Renpy, the KNN algorithm, and Django
+- 🌱 I’m currently learning the Theory of Computing, Internet Systems, Writing for Science and Technology, the KNN algorithm, and Django
 - 🔭 I’m currently working on the following projects:
     - Protein Scaffolding using KNN Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
-    - Little Detective Game with Nicholas Dewberry and Sloane Miller
 
 <img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
 <img alt="Hannah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263&layout=compact&theme=dark#gh-dark-mode-only">
