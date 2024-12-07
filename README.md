@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduating on December 14, 2024. I'm currently looking for an remote/hybrid Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science related research positions. When I graduate with a B.S. in Computer Science, I am planning on taking a gap semester and then seeking employment as either a SWE/SDE/Software Dev, game developer, or data analyst while possibly attending Georgia Tech for the OMSCS program.
+My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduating on December 14, 2024. I'm currently looking for an remote/hybrid Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science related research positions. When I graduate with a B.S. in Computer Science, I plan on seeking employment as either a SW Engineer, game developer, or data analyst, In the fall, I plan on attending Georgia Tech for the OMSCS program.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
