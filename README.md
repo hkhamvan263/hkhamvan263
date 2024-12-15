@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduating on December 14, 2024. I'm currently looking for an remote/hybrid Fall internship before I graduate from A&T. Additionally, I'm interested in an undergraduate research position related to AI, Data Science, Data Analytics, and other computer science related research positions. When I graduate with a B.S. in Computer Science, I plan on seeking employment as either a SW Engineer, game developer, or data analyst, In the fall, I plan on attending Georgia Tech for the OMSCS program.
+My name is Hannah Khamvanthong, and I am a first-generation, senior computer science student graduated on December 14, 2024. Since I graduated with a B.S. in Computer Science, I am currently seeking employment as either a SWE, game developer, or data analyst. Next fall, I plan on attending Georgia Tech for the online MS in CS program.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn
-- 🌱 I’m currently learning the Theory of Computing, Internet Systems, Writing for Science and Technology, the KNN algorithm, and Django
-- 🔭 I’m currently working on the following projects:
-    - Protein Scaffolding using KNN Model with Symphony Pierce, Daniel Velazco, and Chidi Okoro
+- 🌱 I’m currently learning the following: TBD
+- 🔭 I’m currently working on the following projects: TBD
 
 <img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
 <img alt="Hannah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263&layout=compact&theme=dark#gh-dark-mode-only">
