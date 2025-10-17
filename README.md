@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the following projects: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation, computer science student who graduated on December 14, 2024. Since I graduated with a B.S. in Computer Science, I am currently seeking employment as either a SWE, game developer, or data analyst. In the spring, I plan on attending Georgia Tech for the online Master of Science in Computer Science (OMSCS) program.
+My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bachelor of Science in Computer Science degree. I am currently seeking employment as either a SWE, game developer, or data analyst. In the spring, I will attend Georgia Tech for the online Master of Science in Computer Science (OMSCS) program.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
