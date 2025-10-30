@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **hkhamvan263/hkhamvan263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the following projects: TBD
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bachelor of Science in Computer Science degree. I am currently seeking employment as either a SWE, game developer, or data analyst. In the spring, I will attend Georgia Tech for the online Master of Science in Computer Science (OMSCS) program.
+My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bachelor of Science in Computer Science degree. I am currently seeking employment as either a SWE, game developer, or data analyst. In January 2026, I will attend Georgia Tech for the online Master of Science in Computer Science (OMSCS) degree program.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
