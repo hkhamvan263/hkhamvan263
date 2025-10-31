@@ -17,7 +17,7 @@ My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bach
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
-- 📊 Data Analytics Tools: Matplotlib, Pandas, Numpy, Scikit-learn
+- 📊 Data Analytical Tools: Matplotlib, Pandas, Numpy, Scikit-learn
 - 🌱 I’m currently learning the following: TBD
 
 <img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
