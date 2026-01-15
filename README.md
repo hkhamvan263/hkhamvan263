@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 -->
 
-My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bachelor of Science in Computer Science degree. I am currently seeking employment as either a SWE, game developer, or data analyst. In January 2026, I will attend Georgia Tech for the online Master of Science in Computer Science (OMSCS) degree program.
+My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bachelor of Science in Computer Science degree. I am currently seeking employment as either a SWE, game developer, or data analyst. Currently, I am attending Georgia Tech for the online Master of Science in Computer Science (OMSCS) degree program with a specialization in Artificial Intelligence.
 
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
