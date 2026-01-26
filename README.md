@@ -17,7 +17,7 @@ My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bach
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytical Tools: Matplotlib, Pandas, Numpy, Scikit-learn
 - 🌱 I’m currently learning the following: Introduction to Health Informatics
-- 🔭 I’m currently working on the following projects: TBD
+- 🔭 I’m currently working on the following projects: Health Informatics Team Project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hkhamvan), [School Email](Mailto:hkhamvanthong3@gatech.edu)
 
 <!--<img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
