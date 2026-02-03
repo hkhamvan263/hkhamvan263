@@ -21,4 +21,4 @@ My name is Hannah Khamvanthong, and I am a first-generation graduate with a Bach
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hkhamvan), [School Email](Mailto:hkhamvanthong3@gatech.edu)
 
 <img alt="Hannah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hkhamvan263&theme=dark#gh-dark-mode-only">
-<img alt="Hannah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263&layout=compact&theme=dark#gh-dark-mode-only"
+<img alt="Hannah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamvan263&layout=compact&theme=dark#gh-dark-mode-only">
