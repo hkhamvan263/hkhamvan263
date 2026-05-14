@@ -17,8 +17,8 @@ My name is Hannah Khamvanthong, and I am a first-generation college graduate wit
 - 🤖 Hobbies: Coding, Robotics, Gaming, Reading a Book
 - 👩🏻‍💻 Coding Languages: Python, Java, C++, Javascript, HTML/CSS, SQL, C#, Visual Basic
 - 📊 Data Analytical Tools: Matplotlib, Pandas, Numpy, Scikit-learn
-- 🌱 I’m currently learning the following: Introduction to Health Informatics
-- 🔭 I’m currently working on the following projects: Health Informatics Team Project
+- 🌱 I’m currently learning the following: TBD
+- 🔭 I’m currently working on the following projects: TBD
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hkhamvan), [School Email](Mailto:hkhamvanthong3@gatech.edu)
 
 <!--
